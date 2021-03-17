@@ -1,0 +1,86 @@
+@media screen and (max-width: 1150px) {
+  .col-md-7 {
+    min-width: 100% !important;
+  }
+  .col-md-5 {
+    margin: 0 auto;
+    margin-bottom: 0.5rem;
+  }
+}
+
+#headerPopup{
+  width:75%;
+  margin:0 auto;
+}
+
+#headerPopup iframe{
+  width:100%;
+  margin:0 auto;
+}
+
+.dropdown-menu {
+    margin-top: 0.5rem;
+    font-size: 0.85rem !important;
+    width: 500px !important;
+    box-shadow: 4px 4px 4px grey;
+}
+
+a.dropdown-item.active {
+  background: black;
+  opacity: 0.9;
+}
+
+.form-control::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: black;
+  font-size: 0.9rem;
+  opacity: 0.3;
+}
+
+.form-control::-moz-placeholder { /* Firefox 19+ */
+  color: black;
+  font-size: 0.9rem;
+  opacity: 0.3;
+}
+
+
+
+
+.dt-button:hover {
+  color: black !important;
+  border-color: #FFC300 !important;
+  background: #FFC300 !important;
+  opacity: 0.7;
+}
+
+a.page-link {
+  color: blue!important;
+  font-size: 0.9rem;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: blue;
+  color: white !important;
+  border-color: blue;
+}
+
+#datatable_wrapper {
+  padding: 1rem;
+}
+
+#datatable td {
+  font-size: 0.9rem;
+}
+
+.btn:hover {
+  background-color: blue;
+  border-color: blue;
+  opacity: 0.8;
+}
+
+.btn {
+  background-color: blue;
+  border-color: blue;
+}
+.smallTable:hover {
+  background-color: white !important;
+}
