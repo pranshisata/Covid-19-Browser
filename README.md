@@ -6,4 +6,3 @@ This web application will allow readers to:
 
 1. Perform search within the document with the help of keywords
 2. Search the document using Title or Paper ID
-3. Generate on-demand document summaries
